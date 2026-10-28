@@ -1,0 +1,8 @@
+
+{
+  "version": "2.0.0",
+  "buildNumber": 2,
+  "downloadUrl": "https://github.com/TwoH30/drivenet-updates/releases/latest",
+  "releaseNotes": "Version initiale du système de mise à jour de DriveNet.",
+  "mandatory": false
+}
